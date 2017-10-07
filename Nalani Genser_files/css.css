@@ -174,3 +174,39 @@
   src: local('Raleway Black'), local('Raleway-Black'), url(http://fonts.gstatic.com/s/raleway/v11/PKCRbVvRfd5n7BTjtGiFZAzyDMXhdD8sAj6OAJTFsBI.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
 }
+@font-face {
+  font-family: europa;
+  src: url(https://use.typekit.net/af/6d1319/00000000000000003b9afa18/27/l?subset_id=2&fvd=n3&v=3) format("woff2"), url(https://use.typekit.net/af/6d1319/00000000000000003b9afa18/27/d?subset_id=2&fvd=n3&v=3) format("woff"), url(https://use.typekit.net/af/6d1319/00000000000000003b9afa18/27/a?subset_id=2&fvd=n3&v=3) format("opentype");
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: europa;
+  src: url(https://use.typekit.net/af/bdc804/00000000000000003b9afa17/27/l?subset_id=2&fvd=i3&v=3) format("woff2"), url(https://use.typekit.net/af/bdc804/00000000000000003b9afa17/27/d?subset_id=2&fvd=i3&v=3) format("woff"), url(https://use.typekit.net/af/bdc804/00000000000000003b9afa17/27/a?subset_id=2&fvd=i3&v=3) format("opentype");
+  font-weight: 300;
+  font-style: italic;
+}
+@font-face {
+  font-family: europa;
+  src: url(https://use.typekit.net/af/138261/00000000000000003b9afa19/27/l?subset_id=2&fvd=n4&v=3) format("woff2"), url(https://use.typekit.net/af/138261/00000000000000003b9afa19/27/d?subset_id=2&fvd=n4&v=3) format("woff"), url(https://use.typekit.net/af/138261/00000000000000003b9afa19/27/a?subset_id=2&fvd=n4&v=3) format("opentype");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: europa;
+  src: url(https://use.typekit.net/af/5efafd/00000000000000003b9afa1a/27/l?subset_id=2&fvd=i4&v=3) format("woff2"), url(https://use.typekit.net/af/5efafd/00000000000000003b9afa1a/27/d?subset_id=2&fvd=i4&v=3) format("woff"), url(https://use.typekit.net/af/5efafd/00000000000000003b9afa1a/27/a?subset_id=2&fvd=i4&v=3) format("opentype");
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: europa;
+  src: url(https://use.typekit.net/af/4686e2/00000000000000003b9afa16/27/l?subset_id=2&fvd=n7&v=3) format("woff2"), url(https://use.typekit.net/af/4686e2/00000000000000003b9afa16/27/d?subset_id=2&fvd=n7&v=3) format("woff"), url(https://use.typekit.net/af/4686e2/00000000000000003b9afa16/27/a?subset_id=2&fvd=n7&v=3) format("opentype");
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: europa;
+  src: url(https://use.typekit.net/af/43b012/00000000000000003b9afa15/27/l?subset_id=2&fvd=i7&v=3) format("woff2"), url(https://use.typekit.net/af/43b012/00000000000000003b9afa15/27/d?subset_id=2&fvd=i7&v=3) format("woff"), url(https://use.typekit.net/af/43b012/00000000000000003b9afa15/27/a?subset_id=2&fvd=i7&v=3) format("opentype");
+  font-weight: 700;
+  font-style: italic;
+}
