@@ -9865,10 +9865,9 @@ body:not(.event-like-and-share-buttons) .event-meta-socialicon-container {
 }
 
 .sqs-gallery-block-grid.sqs-gallery-block-meta-only-title .margin-wrapper .image-slide-title {
-    display: block;
+    display: inline-grid;
     text-align: center;
     font-size: 14px;
-    margin-top: .5em;
     width: 100%;
     white-space: nowrap;
     overflow: hidden;
