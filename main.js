@@ -15,7 +15,12 @@ $(document).ready(function(){
 
   $('#myBtn').click(function(){
     $("html, body").animate({ scrollTop: 0 }, 600);
+    $('#overlayNav').css('display','');
     return false;
+  });
+
+  $('#overlayNav a').click(function (e) {
+    $('#overlayNav').css('display','none');
   });
 });
 
